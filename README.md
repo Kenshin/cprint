@@ -1,9 +1,9 @@
-Color Print: ANSI coloured text to the standard output on Windows by Golang
+Color Print: ANSI coloured text to the standard output by Golang [![Build Status](https://api.travis-ci.org/Kenshin/cprint.svg?branch=master)](https://travis-ci.org/Kenshin/cprint)
 ================================
 
 Documentation
 ---
-Visit the docs on [Godoc](http://godoc.org/github.com/Kenshin/cprint)
+Visit the docs on [GoDoc](http://godoc.org/github.com/Kenshin/cprint)
 
 Importing
 ---
