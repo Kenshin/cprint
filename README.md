@@ -24,7 +24,7 @@ Example
 	err := errors.New("Variable is not defined.")
 	Error(ERROR, "'gnvm updte latest' an error has occurred. \nError: ", err)
 
-Snapshort
+Screenshots
 --
 ![color print](http://i.imgur.com/OjFVyKI.png)
 
@@ -36,9 +36,9 @@ Help
 CHANGELOG
 ---
 * **2014-05-28, Version `0.0.1` support:**
-    * CP *struct*
-    * Error *method*
-    * P *method*
+    * `CP` *struct*
+    * `P` *method*
+    * `Error` *method*
 
 LICENSE
 ---
