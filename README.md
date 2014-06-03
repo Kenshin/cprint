@@ -1,4 +1,4 @@
-Color Print: ANSI coloured text to the standard output on Windows
+Color Print: ANSI coloured text to the standard output on Windows by Golang
 ================================
 
 Documentation
