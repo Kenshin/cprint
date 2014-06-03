@@ -1,5 +1,5 @@
 /*
-Color Print(cp) is ANSI coloured text to the standard output on Windows. Vesion 0.0.1
+Color Print(cp) is ANSI coloured text to the standard output by Golang. Vesion 0.0.1
 
 Website https://github.com/kenshin/cprint, depends on https://github.com/daviddengcn/go-colortext
 
