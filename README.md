@@ -24,6 +24,10 @@ Example
 	err := errors.New("Variable is not defined.")
 	Error(ERROR, "'gnvm updte latest' an error has occurred. \nError: ", err)
 
+Snapshort
+--
+![color print](http://i.imgur.com/OjFVyKI.png)
+
 Help
 ---
 * Email <kenshin@ksria.com>
