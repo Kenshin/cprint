@@ -5,7 +5,7 @@ Website https://github.com/kenshin/cprint, depends on https://github.com/davidde
 
 Copyright (c) 2014 Kenshin Wang <kenshin@ksria.com>
 */
-package cp
+package cprint
 
 import (
 
@@ -77,7 +77,7 @@ type CP struct {
 //  args   : Variable parameter, include string, CP type, when args last value is "\n", auto new line.
 //
 // For example 1:
-//  P(WARING, Remote latest version %v = latest version %v.\n", param1, param2)
+//  P(WARING, "Remote latest version %v = latest version %v.\n", param1, param2)
 //
 // For example 2:
 //  cp := CP{1, true, 2, true, localVersion}
